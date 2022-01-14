@@ -1,0 +1,17 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+foo:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+export SECRET=asdfasdfasdf
+export SECRET=12123
+export BOOK_SECRET=aasdfasdfasdf
+
+export IS_A_SECRET=12123
+export IS_A_SECRET=12123-23423-234234 #some secret
+export NOT_A_SECRET=
+export some-secret=abd
+export secret=23423
+secret : 
+
+## we don't really want to put a secret here
+example
