@@ -45,7 +45,7 @@ EOF
 
 
 ```
-git secrets --scan examples.file
+git secrets --scan examples.txt
 ```
 
 
